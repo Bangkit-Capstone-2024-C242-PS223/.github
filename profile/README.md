@@ -1,6 +1,6 @@
 <div align="center">
+  <h1>C242-PS223 | VegeCare Bangkit Academy Capstone Team</h1>
   <img src="https://github.com/Bangkit-Capstone-2024-C242-PS223/.github/blob/ece1f999c7f1c36f0982bb255347d2692b634736/assets/logo.png" alt="Logo VegeCare">
-  <p>Smart Solutions for Nurturing Plant Health</p>
 </div>
 
 # About this project
