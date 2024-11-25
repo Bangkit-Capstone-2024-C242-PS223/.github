@@ -16,7 +16,7 @@ This approach aims to reduce food insecurity and improve nutrition by encouragin
 | Bangkit ID       |           Name            |   Learning Path    | LinkedIn Profile | Github | Status |
 |:----------------:|---------------------------|:------------------:|:-----------------------------------------:|-------------------------------------------------------------------|:---------------------------------|
 | M296B4KY2550     | Moh. Wahyu Abrory               | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/wahyuabrory/) | [@wahyuabrory](https://github.com/wahyuabrory) | Active |
-| M004B4KY2791     | Muhammad Dzaky                  | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/) | [@-](https://github.com/) | Active |
+| M004B4KY2791     | Muhammad Dzaky                  | Machine Learning   | [LinkedIn](https://www.linkedin.com/in/) | [@muhdzaky19](https://github.com/muhdzaky19) | Active |
 | M004B4KY0522     | Andreansyah Budi Sasmito        | Machine Learning   | [LinkedIn](https://www.linkedin.com/in//) | [@-](https://github.com/) | Active |
 | C296B4KY0776     | Azriel Dirga Efansyah           | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/azriel-dirga-efansyah-288a12297/) | [@-](https://github.com/) | Active |
 | C296B4KY2705     | Muhammad Alfanul Ulum           | Cloud Computing    | [LinkedIn](https://id.linkedin.com/in/alfan-ulum-4b30b0275) | [@alfanulum](https://github.com/alfanulum) | Active |
