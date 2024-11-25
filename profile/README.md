@@ -21,7 +21,7 @@ This approach aims to reduce food insecurity and improve nutrition by encouragin
 | C296B4KY0776     | Azriel Dirga Efansyah           | Cloud Computing    | [LinkedIn](https://www.linkedin.com/in/azriel-dirga-efansyah-288a12297/) | [@-](https://github.com/) | Active |
 | C296B4KY2705     | Muhammad Alfanul Ulum           | Cloud Computing    | [LinkedIn](https://id.linkedin.com/in/alfan-ulum-4b30b0275) | [@alfanulum](https://github.com/alfanulum) | Active |
 | A284B4KY2435     | Maulana Fiemas Aji Kurnia Safa  | Mobile Development | [LinkedIn](https://www.linkedin.com/in/) | [@FiemasAji](https://github.com/FiemasAji) | Active |
-| A284B4KY4319     | Terra Purnama Putra             | Mobile Development | [LinkedIn](https://www.linkedin.com/in/) | [@-](https://github.com/) | Active |
+| A284B4KY4319     | Terra Purnama Putra             | Mobile Development | [LinkedIn](https://www.linkedin.com/in/) | [@TerraPutra2002](https://github.com/TerraPutra2002) | Active |
 
 </div>
 
